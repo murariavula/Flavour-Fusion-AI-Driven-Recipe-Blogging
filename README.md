@@ -4,16 +4,15 @@ Category: Cloud Application Development
 
 # Deploy App Link :
 
-https://flavour-fusion-ai-driven-recipe-blogging-eh6nkndhbc6gsnu7utzsn.streamlit.app
-
+https://flavour-fusion-ai-driven-recipe-blogging-mghoyjxwqmzx9h4up8ecq.streamlit.app/
 
 # Video Demo Link:
 
-https://drive.google.com/file/d/1MenJiatJPg5OVxUr0kSFqmYoKK6IkgCB/view?usp=sharing
+https://drive.google.com/file/d/1QtgSQrNavAwj-4ZDhr2SB7lXeFZBZfQY/view?usp=sharing
 
 # Document File Link :
 
-https://drive.google.com/file/d/1U3TKNI8vCZgOCY4xqXQXv8n1yIJO55eR/view?usp=sharing
+https://drive.google.com/file/d/1TzFvsYNbtP_AEiKut7BNYP2HoG9uBoRC/view?usp=sharing
 
 Skills Required: Machine Learning
 
